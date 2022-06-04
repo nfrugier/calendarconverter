@@ -1,9 +1,6 @@
 <?php
 $json = file_get_contents("./harptos.json");
 $harptosYear = json_decode($json);
-//echo "<pre>";
-//print_r($harptosYear);
-//echo "</pre>";
 ?>
 <html>
     <head>
