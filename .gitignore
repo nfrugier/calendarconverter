@@ -1,6 +1,2 @@
-.idea
-.DS_Store
-/back
-.htaccess
-.override
-script.php
+.idea/
+credentials
